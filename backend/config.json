@@ -1,0 +1,6 @@
+{
+    "dbUrl": "mongodb+srv://Sujan123:sujan123@cluster0.avsbo.mongodb.net/Ecommerce?retryWrites=true&w=majority",
+    "PORT": "3001",
+    "NODE_ENV": "development",
+    "secretOrKey": "SujanDaiRocks"
+}
